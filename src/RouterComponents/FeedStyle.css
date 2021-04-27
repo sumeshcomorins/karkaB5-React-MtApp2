@@ -1,0 +1,212 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+ .ptpage_composer .socialmedia-wrapper {
+    border: 1px solid #EAE9ED;
+    border-radius: 8px;
+    margin : 0 48px 58px 17px;
+}
+
+.ptpage_composer .socialmedia-post-view {
+    padding: 23.5px 0 0 34.5px;
+}
+
+.ptpage_composer .compose_title {
+    font-size: 20px;
+    color: #3B3BAA;
+    margin: 25px 0 42px 0;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+
+.ptpage_composer .pf-media-upload-title {
+    color: #1A1A30;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 8px;
+    font-weight: 300;
+}
+
+.ptpage_composer ul#media-list {
+    list-style: none;
+    padding: 0 0 19.5px 0;
+    margin: 0;
+}
+
+.ptpage_composer_upload_container {
+    width: 81px;
+    height: 81px;
+    border: 1px solid #EAE9ED;
+    border-radius: 6px;
+}
+
+.ptpage_composer li.compose_upload span {
+    position: relative;
+    width: 81px;
+    height: 81px;
+    border: 1px solid #EAE9ED;
+    border-radius: 6px;
+    display: block;
+    background: #fff
+}
+
+.ptpage_composer li.compose_upload span input {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0
+}
+
+.ptpage_composer li.compose_upload span i {
+    color: #333399;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px
+}
+
+.ptpage_composer #media-list li {
+    float: left;
+    position: relative;
+    margin: 0 15px 0 0;
+}
+
+.ptpage_composer #media-list li:last-child {
+    margin-right: 0
+}
+
+.ptpage_composer .post-thumb {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    border-radius: 6px;
+}
+
+.ptpage_composer #media-list li:hover .post-thumb {
+    display: block
+}
+
+.ptpage_composer a.remove-pic {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 12px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    display: block;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    padding: 3px 0
+}
+
+.ptpage_composer .inner-post-thumb {
+    position: relative
+}
+
+.ptpage_composer .user-post-text-wrap {
+    position: relative
+}
+
+.ptpage_composer textarea.form-control.upostTextarea, .ptpage_composer .ql-container {
+    border: 0;
+    box-shadow: none;
+    height: 175px;
+    resize: none;
+    padding: 0 0 0 0px;
+}
+
+.ptpage_composer.compose-wrapper {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 550px;
+}
+
+.socialmedia_share {
+    border-top: 1px solid #EAE9ED;
+    padding: 20px 30px;
+}
+
+.socialmedia_share .icon-Section .social-io-xs {
+    width: 25px;
+    height: 25px;
+    float: left;
+    text-align: center;
+    margin-right: 22px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    border-color: #3B3BAA #3B3BAA #ccc #ccc;
+}
+
+.socialmedia_share .icon-Section i {
+    font-size: 12px;
+}
+
+.fetch-post-story-blog-container{
+    margin-top:32px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 80vh;
+}
+.fetch-story-list{
+    margin:0 40px 30px 45px;
+    border-bottom:1px solid #D8D8D8;
+}
+.story-blog_content span.socialmedia-name{
+    color:#000000;
+    opacity:0.7;
+    font-size:15px;
+    line-height:14px;
+    margin-bottom:1px;
+
+}
+.story-blog_content h3{
+    color:#000000;
+    font-size:24px;
+    line-height:23px;
+    font-weight:500;
+    margin-bottom:16px;
+}
+.story-blog_content p{
+    color:#000000;
+    font-size:15px;
+    line-height:24px;
+    margin-bottom:12px;
+}
+
+.socialmedia-story-img-container img{
+    border-radius:12px;
+    height:270px;
+}
+.sharecount-view{
+    padding:18px 0;
+}
+.sharecount-view .count-view{
+    color:#000000;
+    font-size:12px;
+}
+.sharecount-view .a-insights{
+    color:#3B3BAA;
+    font-size:12px;
+}
+.hyperImg_section .avatar-xs-2{
+   
+    border:1px solid #ffffff;
+    margin:0;
+}
