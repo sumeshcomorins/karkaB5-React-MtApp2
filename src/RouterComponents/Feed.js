@@ -50,7 +50,7 @@ export default function Feed() {
                         </div>     
                         <div className="story-blog_content col-xl-10 col-lg-10 col-md-10 text-left">
                             <span className="socialmedia-name">Facebook</span>
-                            <h3>Profile name goes here</h3>
+                            <h3>Testing Testing Testing</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitssdds, sdd seddoeiusmod tempor incididunt ut
                             labore et dolore magnaaliquasdfdsf. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
                             Lorem ipsum dolor sit amet, consectetur adipiscing elitssdds, sdd seddoeiusmod tempor incididunt ut
